@@ -1,4 +1,4 @@
-# Stock Market Analyzer
+# Multi User Chat App
 
 Allows you to chat and play pong with friends
 
